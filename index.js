@@ -19,15 +19,5 @@ function moveDodgerRight() {
     }
   }
 
-// //change color
-// dodger.style.backgroundColor = "#000000";
-// //improve visibility
-// dodger.style.backgroundColor = "#FF69B4";
-// //Move element up
-// dodger.style.bottom = "100px";
-
-// //resetting to original position
-// dodger.style.bottom = "0px";
-// dodger.style.left = "0px";
 
 
